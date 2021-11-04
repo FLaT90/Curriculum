@@ -18,5 +18,12 @@ body{
       font-size: 20px;
       background-color: #c4c4c4;
       font-weight: 200;
-      
   }
+
+  footer{
+    background-color: #000000;
+    text-align: center;
+    color: #C4C4C4;
+    font-weight: bold;
+    font-size: 25px;
+}

@@ -15,12 +15,13 @@ body{
 
 .sobreMi{
   
-  font-size: 30px;
+  font-size: 45px;
   text-decoration: none;
   color: #000000;
   font-family: 'Anton', sans-serif;
   
 }
+
 
 .center {
     display: block;
@@ -43,11 +44,9 @@ body{
   }
 
     footer{
-      background-color: #005677;
+      background-color: #000000;
       text-align: center;
-      color: #000000;
+      color: #C4C4C4;
       font-weight: bold;
       font-size: 25px;
   }
-
-  
