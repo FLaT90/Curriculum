@@ -8,17 +8,18 @@ body{
 }
 
 #encabezado{
-  background-image: url("../img/banner\ \(2\).jpg") ;
+  background-image: url(../img/banner2.jpg) ;
   text-align:center;
   font-family: 'Anton', sans-serif;
 }
 
 .sobreMi{
   
-  font-size: 45px;
+  font-size: 30px;
   text-decoration: none;
-  color: #000000;
+  color: white;
   font-family: 'Anton', sans-serif;
+  font-weight: bold;
   
 }
 
