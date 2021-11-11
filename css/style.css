@@ -11,6 +11,7 @@ body{
   background-image: url(../img/banner2.jpg) ;
   text-align:center;
   font-family: 'Anton', sans-serif;
+  line-height: 0px;
 }
 
 .sobreMi{
